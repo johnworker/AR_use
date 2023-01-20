@@ -571,5 +571,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  radius: 5
+  radius: 100
   target: {fileID: 5218116480565400828, guid: bad4509b2dd57504aaa93255f93dc99a, type: 3}
