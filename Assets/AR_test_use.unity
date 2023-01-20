@@ -570,6 +570,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 368b6b3e541d808488768cd2fba7896a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
-  radius: 0
+  speed: 10
+  radius: 5
   target: {fileID: 5218116480565400828, guid: bad4509b2dd57504aaa93255f93dc99a, type: 3}
